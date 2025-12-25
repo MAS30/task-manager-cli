@@ -1,0 +1,5 @@
+def add_task(task):
+    print(f"Task added: {task}")
+
+task = input("Enter task: ")
+add_task(task)
